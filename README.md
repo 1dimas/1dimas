@@ -34,8 +34,6 @@ Strong attention to performance optimization and clean architecture.
 
 ### Corporate Logistics Platform
 - Next.js Production Build  
-- Lighthouse 90+  
-- VPS Deployment  
 - Corporate UX/UI  
 
 ### YOMU – Book Management System
@@ -60,14 +58,7 @@ Strong attention to performance optimization and clean architecture.
 
 ---
 
-## GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1dimas&show_icons=true&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dimas&layout=compact&theme=transparent&hide_border=true" height="150"/>
-</p>
-
----
 
 ## Activity Graph
 
@@ -77,13 +68,6 @@ Strong attention to performance optimization and clean architecture.
 
 ---
 
-## Snake Contribution (Minimal Style)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1dimas/1dimas/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## Contact
 
