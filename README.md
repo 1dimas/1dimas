@@ -1,19 +1,18 @@
-<!-- HERO BANNER -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Dimas%20Ananda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Dimas%20Ananda&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Frontend+%2F+Fullstack+Engineer;Performance-Driven+Applications;Clean+Architecture+Advocate;Scalable+System+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=500&lines=Frontend+%2F+Fullstack+Engineer;Performance-Driven+Web+Systems;Clean+Architecture+Advocate" />
 </p>
 
----
+<br/>
 
 ## About
 
 Engineer focused on building fast, scalable, and production-ready web applications.  
-Strong attention to performance optimization and clean architecture.
+Strong attention to performance optimization, maintainable code, and real business impact.
 
 ---
 
@@ -25,42 +24,37 @@ Strong attention to performance optimization and clean architecture.
 
 ---
 
-<!-- SVG DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=2&section=footer"/>
-</p>
-
 ## Featured Projects
 
 ### Corporate Logistics Platform
-- Next.js Production Build  
-- Corporate UX/UI  
+Next.js Production Build  
+• Corporate UI Architecture  
+• Optimized Performance  
+• VPS Deployment  
 
 ### YOMU – Book Management System
-- Prisma ORM  
-- Removed N+1 Query  
-- Optimized API Performance  
-- Service Layer Architecture  
+• Prisma ORM  
+• Eliminated N+1 Queries  
+• Service Layer Refactor  
+• API Optimization  
 
 ### Backend Optimization Case Study
-- Reduced database load  
-- Improved API efficiency  
-- Structured codebase refactor  
+• Reduced database load  
+• Improved query batching  
+• Structured codebase cleanup  
 
 ---
 
-## Engineering Philosophy
+## Engineering Principles
 
 - Optimize before scaling  
 - Performance is a feature  
-- Clean structure beats complex hacks  
-- Business impact > flashy code  
+- Clean structure over complexity  
+- Business value first  
 
 ---
 
-
-
-## Activity Graph
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1dimas&theme=github-dark&hide_border=true" />
@@ -68,8 +62,7 @@ Strong attention to performance optimization and clean architecture.
 
 ---
 
-
 ## Contact
 
-📩 dimasdwianandaputra@gmail.com  
+Email: dimasdwianandaputra@gmail.com  
 Open for serious collaborations & scalable system projects.
