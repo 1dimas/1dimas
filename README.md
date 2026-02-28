@@ -1,15 +1,19 @@
-<h1 align="center">Dimas Ananda</h1>
+<!-- HERO BANNER -->
 <p align="center">
-  <strong>Frontend / Fullstack Engineer</strong><br/>
-  Performance-Driven • Clean Architecture • Scalable Systems
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Dimas%20Ananda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Frontend+%2F+Fullstack+Engineer;Performance-Driven+Applications;Clean+Architecture+Advocate;Scalable+System+Builder" />
 </p>
 
 ---
 
-## About Me
+## About
 
-I build fast, scalable web applications focused on performance, maintainability, and real-world business impact.  
-Currently working on corporate-grade web systems and backend optimization.
+Engineer focused on building fast, scalable, and production-ready web applications.  
+Strong attention to performance optimization and clean architecture.
 
 ---
 
@@ -21,39 +25,42 @@ Currently working on corporate-grade web systems and backend optimization.
 
 ---
 
-## Featured Work
+<!-- SVG DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=2&section=footer"/>
+</p>
+
+## Featured Projects
 
 ### Corporate Logistics Platform
-Next.js Production Build  
+- Next.js Production Build  
 - Lighthouse 90+  
-- SEO Structured  
 - VPS Deployment  
-- Corporate UI/UX  
+- Corporate UX/UI  
 
 ### YOMU – Book Management System
-Fullstack System Architecture  
 - Prisma ORM  
-- Query Optimization (Removed N+1)  
-- Batch Processing  
-- Clean Service Layer  
+- Removed N+1 Query  
+- Optimized API Performance  
+- Service Layer Architecture  
 
 ### Backend Optimization Case Study
-- Reduced API overhead  
-- Improved DB query efficiency  
-- Performance-focused architecture decisions  
+- Reduced database load  
+- Improved API efficiency  
+- Structured codebase refactor  
 
 ---
 
-## Engineering Principles
+## Engineering Philosophy
 
-- Write less but smarter code  
 - Optimize before scaling  
-- Clean folder structure > messy features  
-- Business value first  
+- Performance is a feature  
+- Clean structure beats complex hacks  
+- Business impact > flashy code  
 
 ---
 
-## GitHub Analytics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1dimas&show_icons=true&theme=transparent&hide_border=true" height="150"/>
@@ -62,15 +69,23 @@ Fullstack System Architecture
 
 ---
 
-## Contribution Activity
+## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1dimas&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1dimas&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Snake Contribution (Minimal Style)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1dimas/1dimas/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## Contact
 
-Email: dimasdwianandaputra@gmail.com  
-Open for serious collaboration & scalable projects.
+📩 dimasdwianandaputra@gmail.com  
+Open for serious collaborations & scalable system projects.
